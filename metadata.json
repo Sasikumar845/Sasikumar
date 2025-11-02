@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Emotion Detection NLP",
+  "description": "A web application that uses the Gemini API to analyze the emotional tone of a given text. It provides a breakdown of emotions like Joy, Sadness, Anger, Fear, and Surprise.",
+  "requestFramePermissions": []
+}
